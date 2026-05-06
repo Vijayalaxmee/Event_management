@@ -1,0 +1,17 @@
+.homepage-container {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.search-section input {
+  min-width: 180px;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  transition: 0.2s ease;
+}
+
+.nav-link:hover {
+  color: #0d6efd !important;
+}
